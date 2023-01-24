@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "cypress": "^12.3.0"
-  }  ,
+  },
   "scripts": {
     "local": "npx cypress open"
   }
